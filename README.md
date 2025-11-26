@@ -45,6 +45,7 @@ Currently learning **Java, Python, Web Development, and Linux**, while exploring
 
 ## 📫 Connect With Me  
 - GitHub: [shivarjunchaturvedi](https://github.com/shivarjunchaturvedi)  
-- LinkedIn: *(add your LinkedIn link here)*  
-- Email: *(add your professional email here)*  
+- LinkedIn: *(www.linkedin.com/in/shivarjun-chaturvedi
+
+)  
 
