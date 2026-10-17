@@ -94,11 +94,23 @@ Building practical software at the intersection of **secure applications, AI, an
 ## 📊 GitHub Snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivarjunchaturvedi&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarjunchaturvedi&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
+
+<a href="https://github.com/shivarjunchaturvedi">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivarjunchaturvedi&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark&include_all_commits=true" alt="Shivarjun's GitHub statistics" height="170" />
+</a>
+<a href="https://github.com/shivarjunchaturvedi">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarjunchaturvedi&layout=compact&hide_border=true&theme=github_dark&langs_count=6&hide=Jupyter%20Notebook" alt="Most used programming languages, excluding notebook files" height="170" />
+</a>
+
+<br/>
+
+<a href="https://github.com/shivarjunchaturvedi?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore-My%20Repositories-2f80ed?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+</a>
+
 </div>
 
-<sub>Stats and language cards are provided by a third-party service and may occasionally be unavailable or delayed.</sub>
+<sub>Language percentages reflect detected repository file sizes, not necessarily time spent coding. Stats cards are hosted by a third-party service and may occasionally be delayed.</sub>
 
 ## 🎯 What I'm Focusing On
 
