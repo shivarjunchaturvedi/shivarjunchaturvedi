@@ -1,62 +1,128 @@
-# Hey, I'm Shivarjun Chaturvedi 👋
+<div align="center">
 
-**B.Tech CSE @ SATI Vidisha · Full-Stack Developer · Cybersecurity & AI Enthusiast**
+# 👋 Hey, I'm Shivarjun Chaturvedi
 
-I build practical software across **application security, AI-powered tools, and full-stack web development**. I enjoy turning ideas into working projects, learning by building, and improving my engineering fundamentals.
+### B.Tech CSE Student · Full-Stack Developer · Cybersecurity & AI Builder
 
-- 🛡️ Exploring API security, secure authentication, vulnerability analysis, and defensive tooling
-- 🤖 Building AI-assisted applications for image authenticity, code review, and career preparation
-- 💻 Working with Python, Java, JavaScript/TypeScript, React, and backend APIs
-- 🎓 Computer Science & Engineering student at SATI, Vidisha
-- 🌐 Portfolio: [shivarjun-portfolio.vercel.app](https://shivarjun-portfolio.vercel.app)
+Building practical software at the intersection of **secure applications, AI, and web development**.
 
----
+<a href="https://github.com/shivarjunchaturvedi"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://shivarjun-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-5B5BD6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/shivarjun-chaturvedi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-## 🚀 Featured Projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**SentinelX — API Security**](https://github.com/shivarjunchaturvedi/SentinelX-API-Security) | Defensive API security platform with telemetry, rate limiting, anomaly detection, JWT authentication, and RBAC | Full-stack · API Security |
-| [**CodeSage AI**](https://github.com/shivarjunchaturvedi/CodeSage-AI) | Code review and security-analysis platform with static analysis, CWE rules, code-quality scoring, and remediation diffs | React · TypeScript · Node.js · Express |
-| [**TrueLens AI**](https://github.com/shivarjunchaturvedi/TrueLens-AI) | Image authenticity estimation app with model-based Real/AI-generated classification, confidence scores, and scan history | React · FastAPI · PyTorch · Hugging Face |
-| [**HireMind AI**](https://github.com/shivarjunchaturvedi/HireMind-AI) | Resume and job-description matching with skill normalization, ATS diagnostics, and explainable scoring | React · TypeScript · FastAPI · PostgreSQL |
-| [**Vulnerability Scanner**](https://github.com/shivarjunchaturvedi/Vulnerability-Scanner) | Security-focused scanning utility | Security · Python |
-| [**Password Strength Analyzer**](https://github.com/shivarjunchaturvedi/Password-Strength-Analyzer) | Password-strength analysis and safer password practices | Security · Python |
-
-> These are portfolio projects, not claims of independent security certification. Check each repository for current functionality, setup instructions, and known limitations.
+</div>
 
 ---
 
-## 🧰 Technologies
+## 🧭 About Me
 
-**Languages:** Python · Java · C · C++ · JavaScript · TypeScript
+- 🎓 Studying **Computer Science & Engineering at SATI, Vidisha**
+- 🛡️ Interested in **API security, application security, and defensive security tooling**
+- 🤖 Building AI-powered applications for **code analysis, image authenticity, and career preparation**
+- 💻 Learning by building, testing, documenting, and improving real projects
+- 🌱 Currently strengthening core programming, software engineering, and secure development practices
 
-**Frontend:** React · Vite · HTML · CSS · Tailwind CSS
+## 🚀 Featured Work
 
-**Backend & APIs:** FastAPI · Node.js · Express · REST APIs
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ SentinelX</h3>
+      <p><b>Defensive API Security Platform</b></p>
+      <p>API telemetry, rate limiting, anomaly detection, JWT authentication, role-based access control, and security audits.</p>
+      <p><code>API Security</code> <code>JWT</code> <code>RBAC</code></p>
+      <a href="https://github.com/shivarjunchaturvedi/SentinelX-API-Security">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 CodeSage AI</h3>
+      <p><b>Code Review & Security Analysis</b></p>
+      <p>Static code analysis, CWE rule checks, code-quality scoring, and remediation comparisons in a developer-focused interface.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Node.js</code></p>
+      <a href="https://github.com/shivarjunchaturvedi/CodeSage-AI">View repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 TrueLens AI</h3>
+      <p><b>Image Authenticity Estimation</b></p>
+      <p>Image classification with confidence estimates, user accounts, scan history, and a React + FastAPI application.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>PyTorch</code></p>
+      <a href="https://github.com/shivarjunchaturvedi/TrueLens-AI">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎯 HireMind AI</h3>
+      <p><b>Resume & Job Matching</b></p>
+      <p>Resume-to-job analysis, skill matching, ATS-oriented diagnostics, and learning recommendations.</p>
+      <p><code>React</code> <code>FastAPI</code> <code>PostgreSQL</code></p>
+      <a href="https://github.com/shivarjunchaturvedi/HireMind-AI">View repository →</a>
+    </td>
+  </tr>
+</table>
 
-**Data & AI:** PostgreSQL · SQLite · MySQL · PyTorch · Hugging Face
+### 🔐 More Security Projects
 
-**Tools:** Git · GitHub · VS Code · Linux · Docker
+- **[Vulnerability Scanner](https://github.com/shivarjunchaturvedi/Vulnerability-Scanner)** — security-focused scanning utility.
+- **[Password Strength Analyzer](https://github.com/shivarjunchaturvedi/Password-Strength-Analyzer)** — password strength analysis.
+- **[Phishing Email Detection](https://github.com/shivarjunchaturvedi/Phishing-Email-Detection)** — phishing-focused detection project.
+- **[Secure Login System](https://github.com/shivarjunchaturvedi/Secure-Login-System)** — authentication-focused application.
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+</div>
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivarjunchaturvedi&show_icons=true&hide_border=true&rank_icon=github&theme=github_dark" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivarjunchaturvedi&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
+</div>
+
+<sub>Stats and language cards are provided by a third-party service and may occasionally be unavailable or delayed.</sub>
+
+## 🎯 What I'm Focusing On
+
+- Writing cleaner, more maintainable code
+- Strengthening data structures, algorithms, and programming fundamentals
+- Building and testing secure APIs and full-stack applications
+- Improving project documentation, deployment, and practical demonstrations
+
+## 🤝 Find Me Online
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5B5BD6?style=for-the-badge&logo=vercel&logoColor=white)](https://shivarjun-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivarjun-chaturvedi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RcDf0baCWs/)
+[![Repositories](https://img.shields.io/badge/All_Projects-Explore-181717?style=for-the-badge&logo=github)](https://github.com/shivarjunchaturvedi?tab=repositories)
+
+</div>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
 
-- Strengthening data structures, algorithms, and core programming
-- Building reliable full-stack applications with secure defaults
-- Learning application security and practical defensive testing
-- Improving testing, documentation, and deployment quality
+**Build with curiosity. Secure by design. Improve every iteration.** 🚀
 
----
-
-## 🤝 Connect
-
-- 🌐 [Portfolio](https://shivarjun-portfolio.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivarjun-chaturvedi)
-- 🧩 [LeetCode](https://leetcode.com/u/RcDf0baCWs/)
-- 📦 [All GitHub repositories](https://github.com/shivarjunchaturvedi?tab=repositories)
-
----
-
-*Build with curiosity. Secure by design. Improve every iteration.*
+</div>
