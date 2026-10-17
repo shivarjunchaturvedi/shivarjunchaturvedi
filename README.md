@@ -7,7 +7,6 @@
 Building practical software at the intersection of **secure applications, AI, and web development**.
 
 <a href="https://github.com/shivarjunchaturvedi"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" alt="GitHub"/></a>
-<a href="https://shivarjun-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20website-5B5BD6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 <a href="https://www.linkedin.com/in/shivarjun-chaturvedi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
@@ -112,7 +111,6 @@ Building practical software at the intersection of **secure applications, AI, an
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-5B5BD6?style=for-the-badge&logo=vercel&logoColor=white)](https://shivarjun-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivarjun-chaturvedi)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RcDf0baCWs/)
 [![Repositories](https://img.shields.io/badge/All_Projects-Explore-181717?style=for-the-badge&logo=github)](https://github.com/shivarjunchaturvedi?tab=repositories)
@@ -124,5 +122,7 @@ Building practical software at the intersection of **secure applications, AI, an
 <div align="center">
 
 **Build with curiosity. Secure by design. Improve every iteration.** 🚀
+
+<sub>Portfolio website coming soon — meanwhile, explore my code and projects here on GitHub.</sub>
 
 </div>
