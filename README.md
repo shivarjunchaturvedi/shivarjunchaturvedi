@@ -56,6 +56,20 @@ Building practical software at the intersection of **secure applications, AI, an
       <a href="https://github.com/shivarjunchaturvedi/HireMind-AI">View repository →</a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎤 HireIQ</h3>
+      <p><b>AI-Powered Interview Preparation · Team Project</b></p>
+      <p>Interview practice with AI-powered mock interviews, resume analysis, Firebase authentication, and interview statistics.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>FastAPI</code> <code>Firebase</code></p>
+      <a href="https://github.com/shivarjunchaturvedi/HireIQ">View repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <p><b>More projects</b></p>
+      <p>Explore the repositories below for additional security and development tools.</p>
+      <a href="https://github.com/shivarjunchaturvedi?tab=repositories">View all repositories →</a>
+    </td>
+  </tr>
 </table>
 
 ### 🔐 More Security Projects
